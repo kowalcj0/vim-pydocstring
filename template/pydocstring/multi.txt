@@ -1,4 +1,4 @@
-"""{{_header_}}
+"""{{_header_}}.
 
-:param {{_args_}}:
+:param {{_arg_}}:{{_lf_}}    :type  {{_arg_}}:
 """
