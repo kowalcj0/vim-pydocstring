@@ -1,4 +1,6 @@
 """{{_header_}}.
 
 :param {{_arg_}}:{{_lf_}}    :type  {{_arg_}}:
+{{_indent_}}:return:
+{{_indent_}}:rtype:
 """
